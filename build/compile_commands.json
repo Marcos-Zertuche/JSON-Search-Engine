@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/docParser_test.dir/test_DocParser.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/test_DocParser.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/test_DocParser.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/docParser_test.dir/DocumentParser/DocumentParser.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/docParser_test.dir/IndexHandler/IndexHandler.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/docParser_test.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -I/Users/marcoszertuche/Desktop/JSON-Search-Engine/rapidjson -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/rapidJSONExample.dir/rapidJSONExample.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/rapidJSONExample.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/rapidJSONExample.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/supersearch.dir/main.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/main.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/main.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/supersearch.dir/DocumentParser/DocumentParser.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/supersearch.dir/IndexHandler/IndexHandler.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/supersearch.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/supersearch.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/QueryProcessor_And_UI/QueryProcessor.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/QueryProcessor_And_UI/QueryProcessor.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_QP.dir/test_QP.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/test_QP.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/test_QP.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_QP.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/QueryProcessor_And_UI/QueryProcessor.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/QueryProcessor_And_UI/QueryProcessor.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_QP.dir/DocumentParser/DocumentParser.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_QP.dir/IndexHandler/IndexHandler.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp"
+},
+{
+  "directory": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_QP.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o -c /Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp",
+  "file": "/Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp"
+}
+]
