@@ -21,9 +21,9 @@ The user can have as many inputs as they need. When concluding, the user will ty
 Before termination, the DSTrees and Unordered_maps containing all data are saved in Memory to implement persistence (improving speed for reopening the program and expanding the library)
 
 
-
 ## Class Information
-[See ClassInfo.md]
+[See ClassInfo.md](https://github.com/Marcos-Zertuche/JSON-Search-Engine/blob/main/ClassInfo.md)
+
 ## Performance
 #
 
