@@ -1,4 +1,5 @@
 # JSON Search Engine
+---
 ## Overview
 This JSON Search Engine is built to compile a library of JSON Documents via user inputs, and allow the user to perform a search that replicates a normal search engine through the terminal. The user can search words, people, and organizations, and also has the ability to omit words from the search. The results are returned in order by relativity score, prioritizing persons and organizations determined by users, followed by frequency of search words in the body of the JSON Document.
 
@@ -17,12 +18,12 @@ After user input, the top 10 results are ordered by relativity score. Persons an
 
 The user can have as many inputs as they need. When concluding, the user will type `QUIT`, terminating the program. 
 
-Before termination, the DSTrees and Unordered_maps containing all data are saved in Memory to implement persistence (improving speed for reopening the program and expaning the library)
+Before termination, the DSTrees and Unordered_maps containing all data are saved in Memory to implement persistence (improving speed for reopening the program and expanding the library)
 
 
 
 ## Class Information
-
+[See ClassInfo.md]
 ## Performance
 #
 
