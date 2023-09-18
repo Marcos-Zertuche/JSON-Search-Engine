@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "unordered_map": "cpp",
+        "iosfwd": "cpp",
+        "__bit_reference": "cpp",
+        "bitset": "cpp",
+        "vector": "cpp"
     }
 }
