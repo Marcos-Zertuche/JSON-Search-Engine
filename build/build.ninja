@@ -54,24 +54,32 @@ build CMakeFiles/docParser_test.dir/test_DocParser.cpp.o: CXX_COMPILER__docParse
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/docParser_test.dir
   OBJECT_FILE_DIR = CMakeFiles/docParser_test.dir
+  TARGET_COMPILE_PDB = CMakeFiles/docParser_test.dir/
+  TARGET_PDB = docParser_test.pdb
 
 build CMakeFiles/docParser_test.dir/DocumentParser/DocumentParser.cpp.o: CXX_COMPILER__docParser_test_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp || cmake_object_order_depends_target_docParser_test
   DEP_FILE = CMakeFiles/docParser_test.dir/DocumentParser/DocumentParser.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/docParser_test.dir
   OBJECT_FILE_DIR = CMakeFiles/docParser_test.dir/DocumentParser
+  TARGET_COMPILE_PDB = CMakeFiles/docParser_test.dir/
+  TARGET_PDB = docParser_test.pdb
 
 build CMakeFiles/docParser_test.dir/IndexHandler/IndexHandler.cpp.o: CXX_COMPILER__docParser_test_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp || cmake_object_order_depends_target_docParser_test
   DEP_FILE = CMakeFiles/docParser_test.dir/IndexHandler/IndexHandler.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/docParser_test.dir
   OBJECT_FILE_DIR = CMakeFiles/docParser_test.dir/IndexHandler
+  TARGET_COMPILE_PDB = CMakeFiles/docParser_test.dir/
+  TARGET_PDB = docParser_test.pdb
 
 build CMakeFiles/docParser_test.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o: CXX_COMPILER__docParser_test_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp || cmake_object_order_depends_target_docParser_test
   DEP_FILE = CMakeFiles/docParser_test.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/docParser_test.dir
   OBJECT_FILE_DIR = CMakeFiles/docParser_test.dir/CleanerClass/stemmer
+  TARGET_COMPILE_PDB = CMakeFiles/docParser_test.dir/
+  TARGET_PDB = docParser_test.pdb
 
 
 # =============================================================================
@@ -86,8 +94,9 @@ build docParser_test: CXX_EXECUTABLE_LINKER__docParser_test_Debug CMakeFiles/doc
   OBJECT_DIR = CMakeFiles/docParser_test.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/docParser_test.dir/
   TARGET_FILE = docParser_test
-  TARGET_PDB = docParser_test.dbg
+  TARGET_PDB = docParser_test.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target rapidJSONExample
@@ -104,6 +113,8 @@ build CMakeFiles/rapidJSONExample.dir/rapidJSONExample.cpp.o: CXX_COMPILER__rapi
   INCLUDES = -I/Users/marcoszertuche/Desktop/JSON-Search-Engine/rapidjson
   OBJECT_DIR = CMakeFiles/rapidJSONExample.dir
   OBJECT_FILE_DIR = CMakeFiles/rapidJSONExample.dir
+  TARGET_COMPILE_PDB = CMakeFiles/rapidJSONExample.dir/
+  TARGET_PDB = rapidJSONExample.pdb
 
 
 # =============================================================================
@@ -118,8 +129,9 @@ build rapidJSONExample: CXX_EXECUTABLE_LINKER__rapidJSONExample_Debug CMakeFiles
   OBJECT_DIR = CMakeFiles/rapidJSONExample.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/rapidJSONExample.dir/
   TARGET_FILE = rapidJSONExample
-  TARGET_PDB = rapidJSONExample.dbg
+  TARGET_PDB = rapidJSONExample.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target supersearch
@@ -135,30 +147,40 @@ build CMakeFiles/supersearch.dir/main.cpp.o: CXX_COMPILER__supersearch_Debug /Us
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/supersearch.dir
   OBJECT_FILE_DIR = CMakeFiles/supersearch.dir
+  TARGET_COMPILE_PDB = CMakeFiles/supersearch.dir/
+  TARGET_PDB = supersearch.pdb
 
 build CMakeFiles/supersearch.dir/DocumentParser/DocumentParser.cpp.o: CXX_COMPILER__supersearch_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp || cmake_object_order_depends_target_supersearch
   DEP_FILE = CMakeFiles/supersearch.dir/DocumentParser/DocumentParser.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/supersearch.dir
   OBJECT_FILE_DIR = CMakeFiles/supersearch.dir/DocumentParser
+  TARGET_COMPILE_PDB = CMakeFiles/supersearch.dir/
+  TARGET_PDB = supersearch.pdb
 
 build CMakeFiles/supersearch.dir/IndexHandler/IndexHandler.cpp.o: CXX_COMPILER__supersearch_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp || cmake_object_order_depends_target_supersearch
   DEP_FILE = CMakeFiles/supersearch.dir/IndexHandler/IndexHandler.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/supersearch.dir
   OBJECT_FILE_DIR = CMakeFiles/supersearch.dir/IndexHandler
+  TARGET_COMPILE_PDB = CMakeFiles/supersearch.dir/
+  TARGET_PDB = supersearch.pdb
 
 build CMakeFiles/supersearch.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o: CXX_COMPILER__supersearch_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp || cmake_object_order_depends_target_supersearch
   DEP_FILE = CMakeFiles/supersearch.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/supersearch.dir
   OBJECT_FILE_DIR = CMakeFiles/supersearch.dir/CleanerClass/stemmer
+  TARGET_COMPILE_PDB = CMakeFiles/supersearch.dir/
+  TARGET_PDB = supersearch.pdb
 
 build CMakeFiles/supersearch.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o: CXX_COMPILER__supersearch_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/QueryProcessor_And_UI/QueryProcessor.cpp || cmake_object_order_depends_target_supersearch
   DEP_FILE = CMakeFiles/supersearch.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/supersearch.dir
   OBJECT_FILE_DIR = CMakeFiles/supersearch.dir/QueryProcessor_And_UI
+  TARGET_COMPILE_PDB = CMakeFiles/supersearch.dir/
+  TARGET_PDB = supersearch.pdb
 
 
 # =============================================================================
@@ -173,8 +195,9 @@ build supersearch: CXX_EXECUTABLE_LINKER__supersearch_Debug CMakeFiles/supersear
   OBJECT_DIR = CMakeFiles/supersearch.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/supersearch.dir/
   TARGET_FILE = supersearch
-  TARGET_PDB = supersearch.dbg
+  TARGET_PDB = supersearch.pdb
 
 
 #############################################
@@ -358,30 +381,40 @@ build CMakeFiles/test_QP.dir/test_QP.cpp.o: CXX_COMPILER__test_QP_Debug /Users/m
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/test_QP.dir
   OBJECT_FILE_DIR = CMakeFiles/test_QP.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_QP.dir/
+  TARGET_PDB = test_QP.pdb
 
 build CMakeFiles/test_QP.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o: CXX_COMPILER__test_QP_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/QueryProcessor_And_UI/QueryProcessor.cpp || cmake_object_order_depends_target_test_QP
   DEP_FILE = CMakeFiles/test_QP.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/test_QP.dir
   OBJECT_FILE_DIR = CMakeFiles/test_QP.dir/QueryProcessor_And_UI
+  TARGET_COMPILE_PDB = CMakeFiles/test_QP.dir/
+  TARGET_PDB = test_QP.pdb
 
 build CMakeFiles/test_QP.dir/DocumentParser/DocumentParser.cpp.o: CXX_COMPILER__test_QP_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/DocumentParser/DocumentParser.cpp || cmake_object_order_depends_target_test_QP
   DEP_FILE = CMakeFiles/test_QP.dir/DocumentParser/DocumentParser.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/test_QP.dir
   OBJECT_FILE_DIR = CMakeFiles/test_QP.dir/DocumentParser
+  TARGET_COMPILE_PDB = CMakeFiles/test_QP.dir/
+  TARGET_PDB = test_QP.pdb
 
 build CMakeFiles/test_QP.dir/IndexHandler/IndexHandler.cpp.o: CXX_COMPILER__test_QP_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/IndexHandler/IndexHandler.cpp || cmake_object_order_depends_target_test_QP
   DEP_FILE = CMakeFiles/test_QP.dir/IndexHandler/IndexHandler.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/test_QP.dir
   OBJECT_FILE_DIR = CMakeFiles/test_QP.dir/IndexHandler
+  TARGET_COMPILE_PDB = CMakeFiles/test_QP.dir/
+  TARGET_PDB = test_QP.pdb
 
 build CMakeFiles/test_QP.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o: CXX_COMPILER__test_QP_Debug /Users/marcoszertuche/Desktop/JSON-Search-Engine/CleanerClass/stemmer/porter2_stemmer.cpp || cmake_object_order_depends_target_test_QP
   DEP_FILE = CMakeFiles/test_QP.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17
   OBJECT_DIR = CMakeFiles/test_QP.dir
   OBJECT_FILE_DIR = CMakeFiles/test_QP.dir/CleanerClass/stemmer
+  TARGET_COMPILE_PDB = CMakeFiles/test_QP.dir/
+  TARGET_PDB = test_QP.pdb
 
 
 # =============================================================================
@@ -396,8 +429,9 @@ build test_QP: CXX_EXECUTABLE_LINKER__test_QP_Debug CMakeFiles/test_QP.dir/test_
   OBJECT_DIR = CMakeFiles/test_QP.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_QP.dir/
   TARGET_FILE = test_QP
-  TARGET_PDB = test_QP.dbg
+  TARGET_PDB = test_QP.pdb
 
 
 #############################################
@@ -679,14 +713,14 @@ build all: phony docParser_test rapidJSONExample supersearch test_QP
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /Users/marcoszertuche/Desktop/JSON-Search-Engine/CMakeLists.txt /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeGenericSystem.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeInitializeConfigs.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeLanguageInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTest.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTestTargets.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTestUseLaunchers.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/DartConfiguration.tcl.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeCXXCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /Users/marcoszertuche/Desktop/JSON-Search-Engine/CMakeLists.txt /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCCompiler.cmake.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCCompilerABI.c /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXCompiler.cmake.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXCompilerABI.cpp /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCompilerIdDetection.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompileFeatures.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompilerABI.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompilerId.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineSystem.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeFindBinUtils.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeGenericSystem.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeInitializeConfigs.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeLanguageInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeNinjaFindMake.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystem.cmake.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCXXCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCompilerCommon.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTest.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTestTargets.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTestUseLaunchers.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/HP-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/LCC-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XL-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/zOS-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/DartConfiguration.tcl.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Internal/FeatureTesting.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Determine-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeCXXCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Users/marcoszertuche/Desktop/JSON-Search-Engine/CMakeLists.txt /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeGenericSystem.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeInitializeConfigs.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeLanguageInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTest.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTestTargets.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTestUseLaunchers.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/DartConfiguration.tcl.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeCXXCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake: phony
+build /Users/marcoszertuche/Desktop/JSON-Search-Engine/CMakeLists.txt /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCCompiler.cmake.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCCompilerABI.c /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXCompiler.cmake.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXCompilerABI.cpp /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCompilerIdDetection.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompileFeatures.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompilerABI.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompilerId.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineSystem.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeFindBinUtils.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeGenericSystem.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeInitializeConfigs.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeLanguageInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeNinjaFindMake.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystem.cmake.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCXXCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCompilerCommon.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTest.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTestTargets.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CTestUseLaunchers.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/HP-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/LCC-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XL-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/zOS-C-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/DartConfiguration.tcl.in /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Internal/FeatureTesting.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-C.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Determine-CXX.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin.cmake /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeCXXCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake: phony
 
 
 #############################################

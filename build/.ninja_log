@@ -1,20 +1,7 @@
 # ninja log v5
-1	771	1695051681167901029	CMakeFiles/rapidJSONExample.dir/rapidJSONExample.cpp.o	650d59e9e97848a9
-931	1351	1695051681750360324	CMakeFiles/test_QP.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o	29bbf534c0442f15
-1	559	1695051680956320476	CMakeFiles/docParser_test.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o	51fb1d45034b840
-3	1358	1695051681756227333	CMakeFiles/supersearch.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o	7efca673415298fa
-771	837	1695051681238007634	rapidJSONExample	1a6dccd74fd38c84
-1	1302	1695051681690344283	CMakeFiles/docParser_test.dir/DocumentParser/DocumentParser.cpp.o	8aadc344a91f465c
-1	848	1695051681246869795	CMakeFiles/supersearch.dir/main.cpp.o	7aff32ca3565d4cc
-3	626	1695051681024790627	CMakeFiles/supersearch.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o	1b9563d7cf7f11b
-3703	3771	1695051684173952066	test_QP	54982657bb8c9e90
-2	931	1695051681329880571	CMakeFiles/supersearch.dir/IndexHandler/IndexHandler.cpp.o	ec79ac5e3b757e23
-1	1049	1695051681447082338	CMakeFiles/docParser_test.dir/IndexHandler/IndexHandler.cpp.o	b7f7c3f0d8611d75
-2	1299	1695051681691383848	CMakeFiles/supersearch.dir/DocumentParser/DocumentParser.cpp.o	98a7e249dd3c4f98
-1358	1428	1695051681830857834	supersearch	5bb71517dfb4cc84
-561	3703	1695051684096304705	CMakeFiles/test_QP.dir/test_QP.cpp.o	72b035fff1e77823
-3505	3574	1695051683977001390	docParser_test	998941f75d740b48
-1	3504	1695051683898048374	CMakeFiles/docParser_test.dir/test_DocParser.cpp.o	be9e584dca24ff77
-848	1531	1695051681929991853	CMakeFiles/test_QP.dir/IndexHandler/IndexHandler.cpp.o	195a805f92b9dbf6
-838	1713	1695051682110932746	CMakeFiles/test_QP.dir/DocumentParser/DocumentParser.cpp.o	babe943d988609d8
-626	1585	1695051681983771418	CMakeFiles/test_QP.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o	3181918ec2db0ef0
+1	346	1695151675397632693	CMakeFiles/supersearch.dir/CleanerClass/stemmer/porter2_stemmer.cpp.o	1b9563d7cf7f11b
+1	553	1695151675611033126	CMakeFiles/supersearch.dir/main.cpp.o	7aff32ca3565d4cc
+1	611	1695151675669410772	CMakeFiles/supersearch.dir/IndexHandler/IndexHandler.cpp.o	ec79ac5e3b757e23
+1	726	1695151675783508621	CMakeFiles/supersearch.dir/DocumentParser/DocumentParser.cpp.o	98a7e249dd3c4f98
+1	811	1695151675869142530	CMakeFiles/supersearch.dir/QueryProcessor_And_UI/QueryProcessor.cpp.o	7efca673415298fa
+812	861	1695151675921713745	supersearch	5bb71517dfb4cc84
